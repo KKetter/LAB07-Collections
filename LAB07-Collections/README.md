@@ -1,4 +1,5 @@
 ﻿##Summary
+
 Console application that shows four custom methods perfomed on a deck of playing cards.
 The methods include Deal, Add, Remove, Count.
 Deal will be demonstrated with a even split of the remaning cards in the deck between two players.
